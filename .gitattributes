@@ -5,3 +5,7 @@ special-vendored-path/* linguist-vendored
 *.css linguist-detectable=true
 *.xml linguist-detectable=true
 *.pyx linguist-language=Cython
+
+
+linguist-language=XML
+linguist-language=css
