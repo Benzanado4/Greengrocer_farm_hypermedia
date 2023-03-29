@@ -1,6 +1,7 @@
 special-vendored-path/* linguist-vendored
 * linguist-detectable=true
 *.html linguist-detectable=false
-*.jsp linguist-detectable=true
+*.jsp linguist-language=Java Server Pages
 *.css linguist-detectable=true
 *.xml linguist-detectable=true
+*.pyx linguist-language=Cython
